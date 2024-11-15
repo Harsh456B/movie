@@ -1,13 +1,16 @@
-###Movie Recommendation System
-Overview
+# Movie Recommendation System
+
+# Overview
+
 The Movie Recommendation System uses machine learning techniques to recommend movies based on user preferences. The system utilizes collaborative filtering, content-based filtering, or a hybrid model to suggest personalized movie recommendations. It is deployed using Streamlit to provide an interactive web interface. The system uses a pre-trained model saved in a .pkl file to generate recommendations.
-Features
+# Features
 •	Personalized Movie Recommendations: Recommends movies based on user input, such as movie names or genres.
 •	Collaborative Filtering: Suggests movies based on user ratings and preferences.
 •	Content-Based Filtering: Recommends movies based on metadata like genre, director, and actors.
 •	Hybrid Model: Combines both collaborative and content-based filtering for more accurate recommendations.
 •	Web Interface with Streamlit: Easy-to-use front-end interface to interact with the recommendation system.
-Technologies Used
+
+# Technologies Used
 •	Python: The programming language used for model training and web app development.
 •	Streamlit: For creating the interactive web application.
 •	Pickle: For saving and loading the pre-trained recommendation model.
